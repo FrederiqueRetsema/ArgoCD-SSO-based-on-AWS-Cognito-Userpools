@@ -1,3 +1,3 @@
-# ArgoCD Single Sign On based on AWS Cognito Userpools
+# ArgoCD Single Sign On based on AWS Cognito User Pools
 
-This repository is created to support the blog on the Conclusion Xforce Tech Playground (https://conclusionxforce.cloud). You can read the blog in this repository as well (BLOG.md)
+This repository is created to support the blog on the Conclusion Xforce Tech Playground (https://conclusionxforce.cloud). 
